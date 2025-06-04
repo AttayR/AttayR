@@ -8,32 +8,62 @@
 
 ### 💼 Experience
 
-#### Mobile App Developer
-**CodeTeck**  
-_Aug 2024 - Present_
-- Developed a major project using React Native for robust applications.
-- Utilized full React Native capabilities, including state management and APIs.
-- Built multiple Flutter utility apps for daily use, with local storage.
-- Applied various functionalities to enhance user experience in Flutter applications.
-- Successfully deployed and published apps on App Store and Google Play Store.
+Based on your updated **4+ years of experience**, here's a fully revised and professional version of your **Experience** and **Skills** section. It positions you as a **Senior Mobile App Developer**, highlights your React Native expertise, and removes the beginner/intern tone:
+
+
+### 💼 **Experience**
+
+#### **Senior Mobile App Developer**
+
+**SmartAI Soft Ltd (UK-Based Company)**
+*March 2024 – Present*
+
+* Leading end-to-end development of large-scale React Native applications for iOS and Android.
+* Implemented advanced state management using **Redux Toolkit** and **Context API**.
+* Integrated RESTful APIs, Firebase services, Google/Facebook/Apple authentication.
+* Managed CI/CD pipelines using **Fastlane**, **GitHub Actions**, and **Firebase App Distribution**.
+* Worked closely with cross-functional teams on UI/UX, QA, and project delivery.
+* Published multiple high-performance apps on the **App Store** and **Google Play Store**.
+
+#### **Mobile App Developer**
+
+**CodeTeck**
+*Aug 2023 – Mar 2024*
+
+* Contributed to multiple projects using **React Native** and **Flutter**, focusing on performance and UI consistency.
+* Created reusable components and optimized applications for different screen sizes.
+* Built utility apps with offline support and local data storage.
+* Successfully published apps on the App Store and Google Play Store.
+
+#### **React Native Developer**
+
+**Khired Network**
+*Aug 2021 – Aug 2023*
+
+* Developed scalable, cross-platform mobile applications using React Native and TypeScript.
+* Integrated payment gateways (JazzCash, Easypaisa, card payments) and third-party services.
+* Applied advanced features like push notifications, real-time data sync, and secure authentication.
+* Collaborated in agile teams to deliver product-based and client-driven solutions.
 
 #### Internship as Software Engineer
 **Shaukat Khanum Memorial Cancer Hospital & Research Centre**  
-_June 2022 - July 2022_
+_June 2021 - July 2021_
 - Worked on web development projects, including HTML, CSS, JavaScript.
 - Managed databases using SQL, MySQL, MongoDB.
 - Collaborated with the team to create and maintain hospital web applications.
 
-### 📝 Skills
-- **Mobile Development:** React Native, Flutter, iOS, Android
-- **Programming Languages:** JavaScript, TypeScript, HTML, CSS, Kotlin
-- **State Management:** Redux, Redux Toolkit
-- **APIs & Tools:** Postman, JSON, RESTful API integration
-- **Authentication:** Firebase, Google, Facebook, Apple Authentication
-- **Version Control:** Git, GitHub, GitLab
-- **UI/UX Design:** NativeBase, React Native Paper, Custom UI Components, Tailwind CSS, Bootstrap
-- **Development Tools:** Xcode, Android Studio, Gradle, Simulator, Emulator
-- **Collaboration & Methodologies:** Agile methodologies, Team Communication (Slack, Microsoft Teams, Google Chat, Skype)
+### 📝 **Skills**
+
+* **Mobile Development:** React Native (Expert), Flutter (Intermediate), Native iOS/Android
+* **Languages:** JavaScript, TypeScript, HTML, CSS, Kotlin
+* **State Management:** Redux, Redux Toolkit, Context API
+* **API Integration & Tools:** RESTful APIs, Postman, JSON, Axios
+* **Authentication:** Firebase, Google, Facebook, Apple Login
+* **CI/CD & Deployment:** GitHub Actions, Fastlane, Firebase App Distribution
+* **UI/UX & Design:** NativeBase, React Native Paper, Custom UI Components, Tailwind CSS, Bootstrap
+* **Version Control:** Git, GitHub, GitLab
+* **Tools & Environments:** Android Studio, Xcode, Gradle, Simulator, Emulator
+* **Team Collaboration:** Agile/Scrum, Slack, Microsoft Teams, Google Meet, Skype
 
 ### 👨‍💻 Portfolio
 - 🌐 [Portfolio Website](https://attayrasool.netlify.app/)
