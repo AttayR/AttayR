@@ -56,10 +56,20 @@ Most of my production work is client-owned and private. Case studies and store l
 | **Simple Rishta** | Matchmaking app with Google authentication, verified signup, profile creation and image uploads. | React Native, Firebase Auth |
 | **Tecklogs** | Field operations and task management app. | React Native |
 
+## ⭐ Featured
+
+### [expo-router-redux-starter](https://github.com/AttayR/expo-router-redux-starter)
+
+[![Stars](https://img.shields.io/github/stars/AttayR/expo-router-redux-starter?style=social)](https://github.com/AttayR/expo-router-redux-starter)
+[![CI](https://github.com/AttayR/expo-router-redux-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/AttayR/expo-router-redux-starter/actions/workflows/ci.yml)
+
+A production-ready starter for new Expo apps: Expo Router protected routes, Redux Toolkit + RTK Query, secure token storage with **automatic token refresh**, light/dark themes, typed i18n, Jest tests and GitHub Actions CI. Click **Use this template** to start your next app with sign-in, data fetching and theming already set up.
+
 ## 🧪 Open Source & Experiments
 
 | Repo | Focus |
 |---|---|
+| [CI-CD](https://github.com/AttayR/CI-CD) | Expo CI/CD reference: over-the-air updates with expo-updates, multi-environment config, dev client builds |
 | [Raah-e-Haq](https://github.com/AttayR/Raah-e-Haq) | Firebase Auth + Firestore + Cloud Messaging, Google Sign-In, Redux Toolkit, in-app chat, Google Maps, offline handling |
 | [SecureApp](https://github.com/AttayR/SecureApp) | Expo Router, biometric authentication, encrypted secure storage, local media handling |
 | [Calendar-App](https://github.com/AttayR/Calendar-App) | Calendar scheduling, QR scanning with camera permissions, AWS Cognito auth |
