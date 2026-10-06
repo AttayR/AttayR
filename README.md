@@ -58,6 +58,13 @@ Most of my production work is client-owned and private. Case studies and store l
 
 ## ⭐ Featured
 
+### [expo-preflight](https://github.com/AttayR/expo-preflight)
+
+[![npm](https://img.shields.io/npm/v/expo-preflight)](https://www.npmjs.com/package/expo-preflight)
+[![Stars](https://img.shields.io/github/stars/AttayR/expo-preflight?style=social)](https://github.com/AttayR/expo-preflight)
+
+A CLI that audits an Expo project before `eas build` / `eas update`: missing iOS usage strings, Android permissions, `eas.json` and update-channel mistakes, committed secrets. Tested against 23 open-source Expo apps; the write-up is on [dev.to](https://dev.to/attayr/i-scanned-23-open-source-expo-apps-before-they-hit-the-app-store-heres-what-a-pre-flight-check-fb6). Try it with `npx expo-preflight`.
+
 ### [expo-router-redux-starter](https://github.com/AttayR/expo-router-redux-starter)
 
 [![Stars](https://img.shields.io/github/stars/AttayR/expo-router-redux-starter?style=social)](https://github.com/AttayR/expo-router-redux-starter)
@@ -69,6 +76,7 @@ A production-ready starter for new Expo apps: Expo Router protected routes, Redu
 
 | Repo | Focus |
 |---|---|
+| [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto/pull/1076) | Contributor: shipped a Jest mock backed by `node:crypto` (merged) |
 | [CI-CD](https://github.com/AttayR/CI-CD) | Expo CI/CD reference: over-the-air updates with expo-updates, multi-environment config, dev client builds |
 | [Raah-e-Haq](https://github.com/AttayR/Raah-e-Haq) | Firebase Auth + Firestore + Cloud Messaging, Google Sign-In, Redux Toolkit, in-app chat, Google Maps, offline handling |
 | [SecureApp](https://github.com/AttayR/SecureApp) | Expo Router, biometric authentication, encrypted secure storage, local media handling |
