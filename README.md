@@ -58,6 +58,19 @@ Most of my production work is client-owned and private. Case studies and store l
 
 ## ⭐ Featured
 
+### [react-native-ui-design-styles](https://github.com/AttayR/react-native-ui-design-styles)
+
+[![Stars](https://img.shields.io/github/stars/AttayR/react-native-ui-design-styles?style=social)](https://github.com/AttayR/react-native-ui-design-styles)
+
+One full-stack Todo app built in **8 UI design styles**: Minimalist, Material Design, iOS/Cupertino, Glassmorphism, Neumorphism (with 8 color themes, including dark mode), Brutalism, Neobrutalism and Skeuomorphism. Expo Router app with a Node.js + Express + SQLite backend. Built as a design-theme catalogue that clients can browse to pick a style.
+
+<p>
+  <img src="https://raw.githubusercontent.com/AttayR/react-native-ui-design-styles/main/docs/screenshots/glassmorphism.png" width="150" alt="Glassmorphism" />
+  <img src="https://raw.githubusercontent.com/AttayR/react-native-ui-design-styles/main/docs/screenshots/neumorphism.png" width="150" alt="Neumorphism" />
+  <img src="https://raw.githubusercontent.com/AttayR/react-native-ui-design-styles/main/docs/screenshots/neobrutalism.png" width="150" alt="Neobrutalism" />
+  <img src="https://raw.githubusercontent.com/AttayR/react-native-ui-design-styles/main/docs/screenshots/skeuomorphism.png" width="150" alt="Skeuomorphism" />
+</p>
+
 ### [expo-preflight](https://github.com/AttayR/expo-preflight)
 
 [![npm](https://img.shields.io/npm/v/expo-preflight)](https://www.npmjs.com/package/expo-preflight)
@@ -77,6 +90,7 @@ A production-ready starter for new Expo apps: Expo Router protected routes, Redu
 | Repo | Focus |
 |---|---|
 | [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto/pull/1076) | Contributor: shipped a Jest mock backed by `node:crypto` (merged) |
+| [trail-notebook](https://github.com/AttayR/trail-notebook) | Offline birdsong field notebook: BirdNET + Gemma 3 1B running fully on-device in React Native (DEV Hacktoberfest 2026) |
 | [CI-CD](https://github.com/AttayR/CI-CD) | Expo CI/CD reference: over-the-air updates with expo-updates, multi-environment config, dev client builds |
 | [Raah-e-Haq](https://github.com/AttayR/Raah-e-Haq) | Firebase Auth + Firestore + Cloud Messaging, Google Sign-In, Redux Toolkit, in-app chat, Google Maps, offline handling |
 | [SecureApp](https://github.com/AttayR/SecureApp) | Expo Router, biometric authentication, encrypted secure storage, local media handling |
@@ -99,7 +113,7 @@ A production-ready starter for new Expo apps: Expo Router protected routes, Redu
 
 **UI & Animation** Reanimated · Gesture Handler · NativeBase · React Native Paper · custom component systems · Tailwind CSS
 
-**Backend & APIs** REST APIs · Firebase (Auth, Firestore, Storage, Cloud Messaging) · Appwrite · Axios · Postman
+**Backend & APIs** Node.js · Express · SQLite · REST APIs · Firebase (Auth, Firestore, Storage, Cloud Messaging) · Appwrite · Axios · Postman
 
 **Auth** Firebase Auth · Google Sign-In · Facebook Login · AWS Cognito · biometric authentication · secure storage & encryption
 
@@ -127,7 +141,15 @@ Open to senior React Native and mobile engineering roles, remote or hybrid.
 - **LinkedIn** [attay-rasool15](https://www.linkedin.com/in/attay-rasool15/)
 - **Portfolio** [attayrasool.netlify.app](https://attayrasool.netlify.app/)
 
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AttayR&show_icons=true&hide_rank=true&hide=stars&theme=default" alt="Attay Rasool's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AttayR&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&theme=default" alt="Attay Rasool's GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AttayR&layout=compact&langs_count=8&theme=default" alt="Top languages" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=AttayR&theme=default&hide_border=false" alt="GitHub contribution streak" height="150" />
 </p>
