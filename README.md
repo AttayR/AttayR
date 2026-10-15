@@ -9,7 +9,7 @@
 
 ---
 
-Mobile engineer with **5+ years** shipping production React Native apps to the App Store and Google Play. I specialise in the parts most React Native developers avoid: **Bluetooth Low Energy and IoT hardware integrations**, real-time data pipelines, and release automation that turns a manual build into a one-command deploy.
+Mobile engineer with **5+ years** shipping production React Native apps to the App Store and Google Play. I build cross-platform apps end to end, from clean UI and state management to native integrations. Along the way I've worked on Bluetooth and IoT device connectivity, real-time data, and automated release pipelines that make shipping to both stores simple and repeatable.
 
 Currently building hardware-connected mobile apps at **Xcorebit** — based in Lahore, Pakistan and open to remote roles with UK, EU and US teams.
 
