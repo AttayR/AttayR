@@ -1,5 +1,5 @@
 <h1 align="center">Attay Rasool</h1>
-<p align="center"><b>Senior React Native Developer</b> · BLE/IoT Integrations · Cross-Platform Mobile</p>
+<p align="center"><b>Senior React Native Developer</b> · Cross-Platform Mobile</p>
 
 <p align="center">
   <a href="https://attayrasool.netlify.app/">Portfolio</a> ·
