@@ -146,10 +146,19 @@ Open to senior React Native and mobile engineering roles, remote or hybrid.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AttayR&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&theme=default" alt="Attay Rasool's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AttayR&layout=compact&langs_count=8&theme=default" alt="Top languages" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AttayR&show_icons=true&hide_rank=true&hide=stars&card_width=420&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AttayR&show_icons=true&hide_rank=true&hide=stars&card_width=420&theme=default" alt="Attay Rasool's GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=AttayR&layout=compact&langs_count=8&exclude_repo=react-native-quick-crypto,react-native-screens,OpenMontage,spec-kit&hide=cmake,ruby&card_width=360&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AttayR&layout=compact&langs_count=8&exclude_repo=react-native-quick-crypto,react-native-screens,OpenMontage,spec-kit&hide=cmake,ruby&card_width=360&theme=default" alt="Most used languages" height="165" />
+  </picture>
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=AttayR&theme=default&hide_border=false" alt="GitHub contribution streak" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AttayR&theme=github-dark-blue&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=AttayR&theme=default" alt="GitHub contribution streak" height="165" />
+  </picture>
 </p>
